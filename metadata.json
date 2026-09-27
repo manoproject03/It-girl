@@ -1,0 +1,6 @@
+{
+  "name": "IT GIRL",
+  "description": "Offline-first bilingual (EN/AR) pastel lifestyle planner, moodboard, and habit notebook",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

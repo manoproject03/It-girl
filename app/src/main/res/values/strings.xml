@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IT GIRL</string>
+    <string name="tagline_en">Your daily aesthetic sanctuary</string>
+    <string name="tagline_ar">مساحتك الجمالية اليومية</string>
+    <string name="lang_toggle_en">EN</string>
+    <string name="lang_toggle_ar">AR</string>
+    <string name="offline_badge_en">100% Offline Vault</string>
+    <string name="offline_badge_ar">مساحة خاصة دون إنترنت</string>
+    <string name="add_new_en">Add Card</string>
+    <string name="add_new_ar">إضافة بطاقة</string>
+    <string name="save_en">Save</string>
+    <string name="save_ar">حفظ</string>
+    <string name="cancel_en">Cancel</string>
+    <string name="cancel_ar">إلغاء</string>
+    <string name="delete_en">Delete</string>
+    <string name="delete_ar">حذف</string>
+    <string name="edit_en">Edit</string>
+    <string name="edit_ar">تعديل</string>
+    <string name="upload_photo_en">Upload Photo from Device</string>
+    <string name="upload_photo_ar">رفع صورة من الجهاز</string>
+</resources>
